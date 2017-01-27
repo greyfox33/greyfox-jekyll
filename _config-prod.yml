@@ -20,7 +20,7 @@ include: ["pages", "thoughts"]
 future: true
 safe: false
 #setting destination to new github site
-destination: ../../greyfox33.github.io
+destination: ../greyfox33.github.io
 baseurl: "http://www.oakts.com"
 repos:
 
