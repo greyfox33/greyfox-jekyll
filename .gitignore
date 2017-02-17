@@ -1,0 +1,9 @@
+.DS_store
+.*.swp
+_site/
+.sass-cache/
+node_modules/
+npm-debug.log
+.bundle/
+assets/dist/
+_includes/code/components/*
