@@ -24,11 +24,11 @@ Microservices architecture makes sense, particularly as another test of developm
 
 While that is all well and good in the private sector, the public sector cannot meet the prerequisites for a move to microservices
 
-1. Does your team have experts in REST and API-design to build the new contracts?
-2. Does your team have folks who really understand how transactions will be performed in a potential move?
++ Does your team have experts in REST and API-design to build the new service contracts?
++ Does your team have folks who really understand how transactions will be performed in a potential move to microservices?
 
 And the real butt-kicker
 
-3. Does your team already do continuous integration and deployment of their monolithic app?
++ Does your team already do continuous integration and deployment of their monolithic app?
 
-Explore the technologies, but if I’m Joe Public-Sector development manager, I need to work on question #3 first. If I can take my huge data model app and nail doing continuous integration and deployment to a cloud environment, scaling things up and down, I can claim I’m microservice enabled! I just happen to have one really big microservice!
+Explore the technologies, but if I’m Joe Public-Sector development manager, I need to work on the continuous integration question first. If I can take my huge data model app and nail doing continuous integration and deployment to a cloud environment, scaling things up and down, I can claim I’m microservice enabled! I just happen to have one really big microservice!
