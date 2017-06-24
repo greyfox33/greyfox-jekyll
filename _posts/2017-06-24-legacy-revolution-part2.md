@@ -10,11 +10,16 @@ In part 1 I discussed how small agile teams can be procured (see the state ADPQ 
 ## Open Source
 
 We are seeing the model of using open source work well. Possible steps for you to try:
+
 1. Identify a problem that your team might consider developing a customer solution for. (e.g. we have 40 services, but only want to expose 10 to the outside world)
-+. Find solid open source project with an active community
+
+2. Find solid open source project with an active community
 (e.g. Kong)
-+. Do a proof of concept to see if it meets your needs
-+. Find a vendor who will provide support. (e.g. Mashape for Kong)
+
+3. Do a proof of concept to see if it meets your needs
+
+4. Find a vendor who will provide support. (e.g. Mashape for Kong)
+
 This helps accelerate the development process by allowing dev teams to pick and choose best of breed tools, integrate them, and avoid having to develop and test these tools themselves.  
 
 Using best of breed open source tools provides a frictionless (little cost to experiment with, no licensing issues) method to reuse software that has already been built and tested elsewhere, thereby accelerating the development process. 
@@ -31,6 +36,8 @@ No -- this use of the cloud also involves writing a new type of code that actual
 
 Since the infrastructure can become a series of software componets (e.g. Ansible scripts, Jenkins scripts, Docker containers, etc.) a single environment can be spun up quickly and torn down just as quickly. Refactor, and do it again. 
 Infrastructure is no longer a treasured component of the project, meticulously cared for and fed. Infrastructure becomes like cattle, not pets. 
+
+![cattle, not pets](/assets/dist/img/cattle.jpg)
 
 ## DevOps
 
