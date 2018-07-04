@@ -105,6 +105,7 @@ gulp.task('default', ['build'], function() {
     'pages/*.md',
     '_includes/*.html',
     'thoughts/*.html',
+      'thoughts/*.md'
     ], ['build', browserSync.reload]);
   gulp.watch('assets/src/css/*.scss', ['build', browserSync.reload]);
   gulp.watch('assets/src/js/*.js', ['build', browserSync.reload]);

@@ -28,6 +28,5 @@ To install globally, in terminal run:
 
 
 ## Project Development
-
 1. From the root of the project you will need run `bundle install`, `npm install` and `bower install` to install project dependencies.
 2. To run project in development run `gulp`
