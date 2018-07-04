@@ -28,7 +28,9 @@ As mentioned above, in an Agile project, there is no Gantt chart. I have yet to 
 
 Let's compare the processes. 
 
-_Condensed description of a waterfall project_: W-team gets together, decides on scope, builds comprehensive design doc and project plan describing the scope, schedule and cost. The project plan is given in Gantt chart to stakeholders, with different representations of the project plan provided to stakeholders based on their need. 
+_Condensed description of a waterfall project_: W-team gets together, decides on scope, 
+builds comprehensive design doc and project plan describing the scope, 
+schedule and cost. The project plan - usually in the form of a Gantt chart -- is provided to stakeholders based on their need. 
 
 _Condensed description of an agile project_: A-team gets together, decides on scope, builds backlog of stories, assigns stories to epics, and epics assigned to program intervals (PI).  With a tool like Jira, dashboards, burn-down charts, and other reports are given to stakeholders, and estimates of when the project will complete can be drafted, along with a corresponding cost. 
 
@@ -39,4 +41,8 @@ But Agile - when it comes to providing project status to stakeholders - is in no
 There is no standard report or mechanism to show stakeholders project progress. 
 And adding fuel to the fire is the agile mantra that with each sprint, customer feedback will be factored into future development, basically stating that the current "plan" will change tomorrow, as the scope is dynamic. 
 
-Managers running an agile project will need to work tirelessly with stakeholders (up the chain) to find acceptable ways to communicate "the plan", as well as with agile teams (down the chain) to provide adequate inputs/forecasts needed to build "the plan". 
+Managers running an agile project will need to work with stakeholders (up the chain) 
+to find acceptable ways to communicate "the plan", and to ensure stakeholders understand 
+how to read and interpret these new communication tools. Additionally, managers will need to train scrum masters and agile teams
+(down the chain) to provide adequate inputs/forecasts needed to assemble the components that 
+make up the agreed upon way of communicating "the plan". 
